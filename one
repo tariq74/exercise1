@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    std::cout << "University  :  University Teknikal Malaysia Melaka\n"; 
+	std::cout << "Faculty     :  FTMK\n";
+	std::cout << "Programme   :  Artificial Intelligence\n\n";
+	std::cout << "My name is Mohammad Tariq Ali Bin Salamudeen Ali. I am from Pulau Pinang.";
+	return 0;
+}
